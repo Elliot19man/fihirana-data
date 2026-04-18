@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "numero": "001",
+    "titre": "Avia any an-danitra",
+    "auteur": "H. Randriamasinoro",
+    "tonalite": "Ré majeur",
+    "categorie": "Hira fiderana",
+    "paroles": "Avia any an-danitra, ry Jesoa Tompo\nMampianara anay ny lalana marina\nFeno hafaliana ny fonay rehetra\nFiderana sy voninahitra ho Anao\n\n[Fiv]\nHallelujah, Hallelujah\nHallelujah, Amen\nHallelujah, Hallelujah\nHallelujah, Amen"
+  },
+  {
+    "id": "002",
+    "numero": "002",
+    "titre": "Andriamanitra lehibe",
+    "auteur": "Unknown",
+    "tonalite": "Sol majeur",
+    "categorie": "Hira fiderana",
+    "paroles": "Andriamanitra lehibe\nMidera Anao izahay\nFeno voninahitra ny anaranao\nHallelujah ho Anao\n\n[Fiv]\nLehibe, lehibe\nAndriamanitra lehibe\nMidera Anao izahay\nHallelujah"
+  }
+]
